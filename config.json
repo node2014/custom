@@ -30,6 +30,16 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/node2014/CatVodSpider/main/json/alist.json"
     },
     {
+"key": "Alist",
+"name": "Alist",
+"type": 3,
+"api": "https://ghproxy.com/https://raw.githubusercontent.com/node2014/dr_py/master/libs/alist.min.js",
+"searchable": 1,
+"quickSearch": 0,
+"filterable": 0,
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/node2014/dr_py/master/txt/json/alist.json;50;video"
+},
+    {
       "key": "紙條",
       "name": "紙條",
       "type": 3,
