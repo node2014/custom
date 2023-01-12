@@ -15,7 +15,7 @@
      "name":"豆瓣热播",
      "type":3,
      "api":"https://ghproxy.com/https://raw.githubusercontent.com/node2014/dr_py/master/libs/drpy2.min.js",
-     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/node2014/dr_py/master/js/drpy.js",
+     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/drpy.js",
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0
